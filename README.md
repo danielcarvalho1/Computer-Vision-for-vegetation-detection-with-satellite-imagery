@@ -11,8 +11,6 @@ Notebook for analyzing images and measuring the percentage of blue pixels in eac
 - [Output](#output)
 - [Requirements](#requirements)
 - [How to use](#how-to-use)
-- [Directory structure](#directory-structure)
-- [License](#license)
 
 ---
 
